@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
+## Somaditya Basak (Him/He)
+🔭 I’m a [Camunda BPM](https://github.com/camunda) developer.
+🌱 I’m currently learning Docker:whale: and Kubernetes☸.
+💬 Ask me about BPM, BPMN, DMN, process modelling and automation.
+📫 How to reach me: [Mail](mailto:somaditya@outlook.com) [Twitter](https://twitter.com/binary_hash) [LinkedIn](https://www.linkedin.com/in/somadityabasak/)
 
 <!--
 **somaditya/somaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
