@@ -1,9 +1,9 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## Somaditya Basak (Him/He)
-- 🔭 I’m a [Camunda BPM](https://github.com/camunda) developer.
-- 🌱 I’m currently learning Docker:whale:  and Kubernetes☸.
-- 💬 Ask me about BPM, BPMN, DMN, process modelling and automation.
+- 🔭 I’m a [BPM](https://en.wikipedia.org/wiki/Business_process_modeling) developer, skilled in [Camunda](https://camunda.com/) and [ActiveVOS](https://docs.informatica.com/process-automation/informatica-activevos/current-version.html).
+- 🌱 I’m currently learning Oracle SQL and Java.
+- 💬 Ask me about XML, XSD, XQuery, WSDL, SOAP, REST, BPMN, BPEL...
 - 📫 How to reach me: [Mail](mailto:somaditya@outlook.com) [Twitter](https://twitter.com/binary_hash) [LinkedIn](https://www.linkedin.com/in/somadityabasak/)
 
 <!--
