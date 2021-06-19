@@ -1,10 +1,13 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Somaditya Basak (Him/He)
-- 👨🏻‍💻 I’m a Software Developer in Telecom Operations Support System.
-- 🌱 I’m currently learning Blockchain and Cryptocurrencies.
-- 💬 Ask me about Ethereum, Solidity, Polkadot, Substrate, Polygon, Cosmos etc.
-- 📫 How to reach me: [Mail](mailto:somaditya@outlook.com) [Twitter](https://twitter.com/binary_hash) [LinkedIn](https://www.linkedin.com/in/somadityabasak/)
+## Somaditya Basak
+- 😄 Pronouns: He/Him
+- 👨🏻‍💻 I’m a Software Developer.
+- 🔭 I’m currently working on 5G network automation.
+- 🌱 I’m currently learning about Blockchain and Cryptocurrencies as a hobby.
+- 💬 Ask me about Blockchain, Bitcoin, Ethereum, Solidity, Polygon, Matic etc.
+- 📫 How to reach me: [Twitter](https://twitter.com/somaditya_eth) [LinkedIn](https://www.linkedin.com/in/somadityabasak/)
+- ⚡ Fun fact: Follow me on Twitter to know.
 
 <!--
 **somaditya/somaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
