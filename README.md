@@ -4,8 +4,8 @@
 - 😄 Pronouns: He/Him
 - 👨🏻‍💻 I’m a Software Developer.
 - 🔭 I’m currently working in 5G network automation.
-- 🌱 I’m currently learning Python, Java, Data Structures and Alogrithms.
-- 💬 Ask me about Camunda, Python, Java, 5G, Telecom OSS etc.
+- 🌱 I’m currently learning Python and Azure.
+- 💬 Ask me about Camunda, Python, 5G, Telecom OSS etc.
 - 📫 How to reach me: [Twitter](https://twitter.com/sb250c) [LinkedIn](https://www.linkedin.com/in/somadityabasak/)
 - ⚡ Fun fact: Follow me on Twitter to know.
 
