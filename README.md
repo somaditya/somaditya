@@ -6,7 +6,7 @@
 - 🔭 I’m currently working in 5G network automation.
 - 🌱 I’m currently learning Python and Azure.
 - 💬 Ask me about Camunda, Python, 5G, Telecom OSS etc.
-- 📫 How to reach me: [Twitter](https://twitter.com/somaditya_eth) [LinkedIn](https://www.linkedin.com/in/somadityabasak/)
+- 📫 How to reach me: [Linktree](https://linktr.ee/somaditya) [Twitter](https://twitter.com/somaditya_eth) [LinkedIn](https://www.linkedin.com/in/somadityabasak/)
 - ⚡ Fun fact: Follow me on Twitter to know.
 
 <!--
