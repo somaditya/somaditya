@@ -3,9 +3,9 @@
 ## Somaditya Basak
 - 😄 Pronouns: He/Him
 - 👨🏻‍💻 I’m a Software Developer.
-- 🔭 I’m currently working in 5G network automation.
-- 🌱 I’m learning Java.
-- 💬 Ask me about Camunda, Python, 5G, Telecom OSS etc.
+- 🔭 I’m currently working on iPaaS product R&D.
+- 🌱 I’m learning Java, data structures and algorithms.
+- 💬 Ask me about Telecom OSS.
 - 📫 How to reach me: [Linktree](https://linktr.ee/somaditya) [Twitter](https://twitter.com/sbk1337)
 - ⚡ Fun fact: Follow me on Twitter to know.
 
