@@ -3,7 +3,7 @@
 ## Somaditya Basak
 - 😄 Pronouns: He/Him
 - 👨🏻‍💻 I’m a Software Developer.
-- 🔭 I’m currently working on iPaaS product R&D.
+- 🔭 I’m currently working on Telecom OSS.
 - 🌱 I’m learning Java, data structures and algorithms.
 - 💬 Ask me about Telecom OSS.
 - 📫 How to reach me: [Linktree](https://linktr.ee/somaditya) [Twitter](https://twitter.com/sbk1337)
