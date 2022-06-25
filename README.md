@@ -3,7 +3,7 @@
 ## Somaditya Basak
 - 😄 Pronouns: He/Him
 - 👨🏻‍💻 I’m a Software Developer.
-- 🔭 I’m currently working on Telecom OSS.
+- 🔭 I’m currently working on Kogito, Quarkus, OpenShift.
 - 🌱 I’m learning Java, data structures and algorithms.
 - 💬 Ask me about business process automation.
 - 📫 How to reach me: [Twitter](https://twitter.com/sbk1337) [Linktree](https://linktr.ee/somaditya)
