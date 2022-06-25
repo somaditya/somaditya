@@ -5,9 +5,8 @@
 - 👨🏻‍💻 I’m a Software Developer.
 - 🔭 I’m currently working on Telecom OSS.
 - 🌱 I’m learning Java, data structures and algorithms.
-- 💬 Ask me about Telecom OSS.
-- 📫 How to reach me: [Linktree](https://linktr.ee/somaditya) [Twitter](https://twitter.com/sbk1337)
-- ⚡ Fun fact: Follow me on Twitter to know.
+- 💬 Ask me about business process automation.
+- 📫 How to reach me: [Twitter](https://twitter.com/sbk1337) [Linktree](https://linktr.ee/somaditya)
 
 <!--
 **somaditya/somaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
