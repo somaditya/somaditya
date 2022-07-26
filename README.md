@@ -1,12 +1,12 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Somaditya Basak
-- 😄 Pronouns: He/Him
-- 👨🏻‍💻 I’m a Software Developer.
-- 🔭 I’m currently working on Kogito, Quarkus, OpenShift.
-- 🌱 I’m learning Java, data structures and algorithms.
-- 💬 Ask me about business process automation.
-- 📫 How to reach me: [Twitter](https://twitter.com/sbk1337) [Linktree](https://linktr.ee/somaditya)
+## somaditya basak
+- 😄 pronouns: he/him
+- 👨🏻‍💻 i’m a software developer
+- 🔭 i’m currently working on kogito, quarkus, kafka, camel, kubernetes etc
+- 🌱 i’m learning java, data structures and algorithms
+- 💬 ask me about business process automation
+- 📫 how to reach me: [twitter](https://twitter.com/sbk1337) [linktree](https://linktr.ee/somaditya)
 
 <!--
 **somaditya/somaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
