@@ -3,7 +3,7 @@
 ## somaditya basak
 - 😄 pronouns: he/him
 - 👨🏻‍💻 i’m a software developer
-- 🔭 i’m currently working on kogito, quarkus, kafka, camel, kubernetes etc
+- 🔭 i’m currently working on kogito, quarkus, kafka, kubernetes etc
 - 🌱 i’m learning java, data structures and algorithms
 - 💬 ask me about business process automation
 - 📫 how to reach me: [twitter](https://twitter.com/sbk1337) [linktree](https://linktr.ee/somaditya)
