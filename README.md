@@ -29,6 +29,9 @@
 
 ## 📈 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somaditya&show_icons=true&locale=en&layout=compact" alt="somaditya" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=somaditya&show_icons=true&locale=en&layout=compact" alt="somaditya" /></p>
+<a href="https://github.com/somaditya">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somaditya&theme=light" alt="Top Languages" />
+</a>
+<a href="https://github.com/somaditya">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=somaditya&show_icons=true&theme=light" alt="Somaditya's GitHub Stats" />
+</a>
