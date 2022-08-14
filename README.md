@@ -29,6 +29,6 @@
 
 ## 📈 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=somaditya&show_icons=true&locale=en&layout=compact" alt="somaditya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somaditya&show_icons=true&locale=en&layout=compact" alt="somaditya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somaditya&show_icons=true&locale=en" alt="somaditya" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=somaditya&show_icons=true&locale=en&layout=compact" alt="somaditya" /></p>
