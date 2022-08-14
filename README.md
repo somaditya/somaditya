@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [somaditya.github.io](https://somaditya.github.io)
 
-- 📫 How to reach me **somaditya@outlook.com**
+- 📫 Reach me at **somaditya@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
