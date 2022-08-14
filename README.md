@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Somaditya Basak</h1>
 <h3 align="center">I'm a Software Engineer, specializing in Java backend development</h3>
 
-<p align="left"> <a href="https://twitter.com/sbk1337" target="blank"><img src="https://img.shields.io/twitter/follow/sbk1337?logo=twitter&style=for-the-badge" alt="sbk1337" /></a> </p>
+<p align="center"> <a href="https://twitter.com/sbk1337" target="blank"><img src="https://img.shields.io/twitter/follow/sbk1337?logo=twitter&style=for-the-badge" alt="sbk1337" /></a> </p>
 
 - 🌱 I’m currently learning **Java, Spring, Microservices, Cloud, DevOps**
 
@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **somaditya@outlook.com**
 
-## ✉️ Connect with me:
+## 🔗 Connect with me:
 <p align="left">
 <a href="https://twitter.com/sbk1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sbk1337" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/somadityabasak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somadityabasak" height="30" width="40" /></a>
