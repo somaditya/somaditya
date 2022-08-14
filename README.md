@@ -30,8 +30,8 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/somaditya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somaditya&theme=light" alt="Top Languages" />
+  <img align="center" vertical-align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somaditya&theme=light" alt="Top Languages" />
 </a>
 <a href="https://github.com/somaditya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=somaditya&show_icons=true&theme=light" alt="Somaditya's GitHub Stats" />
+  <img align="center" vertical-align="top" src="https://github-readme-stats.vercel.app/api?username=somaditya&show_icons=true&theme=light" alt="Somaditya's GitHub Stats" />
 </a>
