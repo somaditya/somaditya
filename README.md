@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, Spring, Microservices, Cloud, DevOps**
 
-- 👨‍💻 All of my projects are available at [somaditya.github.io](https://somaditya.github.io)
+- 👨‍💻 All of my projects are available at **[somaditya.github.io](https://somaditya.github.io)**
 
 - 📫 Reach me at **somaditya@outlook.com**
 
