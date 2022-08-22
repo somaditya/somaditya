@@ -25,7 +25,7 @@
 
 
 ## 📈 GitHub Stats
-<img width = "100%" src="https://github-readme-streak-stats.herokuapp.com/?user=somaditya&theme=buefy" />
+<img width = "100%" src="https://github-readme-streak-stats.herokuapp.com/?user=somaditya&theme=buefy&hide_border=true" />
 <a href="https://github-readme-stats.vercel.app/api?username=somaditya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=somaditya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Somaditya's github stats" /></a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=somaditya&layout=compact&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somaditya&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ## 💻 Top Repositories
