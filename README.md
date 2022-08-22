@@ -30,9 +30,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somaditya&layout=compact&theme=buefy&hide_border=true&count_private=true" />
 
 ## 💻 Top Repositories
-<a href="https://github.com/somaditya/mflix-java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=somaditya&repo=mflix-java&theme=buefy" />
+<a href="https://github.com/somaditya/verifone-sim-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=somaditya&repo=verifone-sim-api&theme=buefy" />
 </a>
-<a href="https://github.com/somaditya/RediSolar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=somaditya&repo=RediSolar&theme=buefy" />
+<a href="https://github.com/somaditya/dox-bank-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=somaditya&repo=dox-bank-api&theme=buefy" />
 </a>
