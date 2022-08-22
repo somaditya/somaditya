@@ -26,7 +26,7 @@
 
 ## 📈 GitHub Stats
 <img width = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=somaditya&theme=buefy&hide_border=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/username=somaditya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Somaditya's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=somaditya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somaditya&layout=compact&theme=buefy&hide_border=true&count_private=true" />
 
 ## 💻 Top Repositories
