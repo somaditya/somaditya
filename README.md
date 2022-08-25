@@ -25,14 +25,22 @@
 
 
 ## 📈 GitHub Stats
-<img width = "100%" src="https://github-readme-streak-stats.herokuapp.com/?user=somaditya&theme=buefy&hide_border=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=somaditya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somaditya&layout=compact&theme=buefy&hide_border=true&count_private=true" />
+<!-- <img width = "100%" src="https://github-readme-streak-stats.herokuapp.com/?user=somaditya&theme=buefy&hide_border=true&count_private=true" /> -->
+<table
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=somaditya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" /></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somaditya&layout=compact&theme=buefy&hide_border=true&count_private=true" /></td>
+  </tr>
+</table>
 
 ## 💻 Top Repositories
-<a href="https://github.com/somaditya/verifone-sim-api">
+<table>
+  <tr>
+    <td><a href="https://github.com/somaditya/verifone-sim-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=somaditya&repo=verifone-sim-api&theme=buefy" />
-</a>
-<a href="https://github.com/somaditya/dox-bank-api">
+</a></td>
+    <td><a href="https://github.com/somaditya/dox-bank-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=somaditya&repo=dox-bank-api&theme=buefy" />
-</a>
+</a></td>
+  </tr>
+</table>
