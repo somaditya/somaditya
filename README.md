@@ -35,8 +35,8 @@
 
 ## 💻 Top Repositories
 <a href="https://github.com/somaditya/verifone-sim-api">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=somaditya&repo=verifone-sim-api&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=somaditya&repo=verifone-sim-api&theme=buefy" />
 </a>
 <a href="https://github.com/somaditya/dox-bank-api">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=somaditya&repo=dox-bank-api&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=somaditya&repo=dox-bank-api&theme=buefy" />
 </a>
