@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring, Oracle Database**
 
-- 👨‍💻 All of my projects are available at **[www.somaditya.com](https://www.somaditya.com)**
+- 👨‍💻 All of my projects are available at **[somaditya.com](https://www.somaditya.com)**
 
 - 📫 Reach me at **mail@somaditya.com**
 
