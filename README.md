@@ -4,11 +4,11 @@
 
 <p align="center"> <a href="https://twitter.com/sbk1337" target="blank"><img src="https://img.shields.io/twitter/follow/sbk1337?logo=twitter&style=for-the-badge" alt="sbk1337" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Cloud, Oracle Database**
+- 🌱 I’m currently learning **Spring, Oracle Database**
 
-- 👨‍💻 All of my projects are available at **[somaditya.github.io](https://somaditya.github.io)**
+- 👨‍💻 All of my projects are available at **[somaditya.com](https://www.somaditya.com)**
 
-- 📫 Reach me at **somaditya@outlook.com**
+- 📫 Reach me at **mail@somaditya.com**
 
 ## 🔗 Connect with me:
 <p align="left">
