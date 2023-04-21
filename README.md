@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at **[somaditya.com](https://www.somaditya.com)**
 
-- 📫 Reach me at **mail@somaditya.com**
+- 📫 Reach me at **mail[AT]somaditya[DOT]com**
 <!--
 ## 🔗 Connect with me:
 <p align="left">
