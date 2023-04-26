@@ -2,7 +2,7 @@
 <h1 align="center">Somaditya Basak</h1>
 <h3 align="center">Back End Developer 👨‍💻</h3>
 
-- 🌱 I’m currently learning **Spring, Oracle Database**
+- 🌱 I’m currently learning **Java EE, PL/SQL, bash and csh scripting.**
 
 - 👨‍💻 All of my projects are available at **[somaditya.com](https://www.somaditya.com)**
 
