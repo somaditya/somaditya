@@ -7,3 +7,11 @@
 - 👨‍💻 All of my projects are available at **[somaditya.com](https://www.somaditya.com)**
 
 - 📫 Contact me on **[LinkedIn](https://www.linkedin.com/in/somadityabasak/)**
+
+<!--
+#Competitive Programming
+LeetCode - Guardian (Rating: 2000+)
+CodeForces - Red (GrandMaster)
+HackerRank - 6 Star
+hackerEarth - Elite (Rating: 2000+), India Rank: 18
+-->
