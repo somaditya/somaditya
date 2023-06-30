@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java EE, PL/SQL and React**
 
-- 👨‍💻 All of my projects are available at **[somaditya.com](https://www.somaditya.com)**
+- 👨‍💻 All of my projects are available at **[portfolio.somaditya.com](https://portfolio.somaditya.com)**
 
 - 📫 Contact me on **[LinkedIn](https://www.linkedin.com/in/somadityabasak/)**
 
