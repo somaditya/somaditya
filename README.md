@@ -2,7 +2,7 @@
 <h1 align="center">Somaditya Basak</h1>
 <h3 align="center">Back End Developer 👨‍💻</h3>
 
-- 🌱 I’m currently learning **Java EE, PL/SQL and React**
+- 🌱 I’m a lifelong philomath of **Java, data structures and algorithms**
 
 - 👨‍💻 All of my projects are available at **[somaditya.com](https://www.somaditya.com)**
 
