@@ -2,9 +2,9 @@
 <h1 align="center">Somaditya Basak</h1>
 <h3 align="center">Back End Developer 👨‍💻</h3>
 
-- 🌱 I’m a lifelong philomath of **Java, data structures and algorithms**
+- 🌱 Lifelong student of **Java, data structures and algorithms**
 
-- 👨‍💻 All of my projects are available at **[somaditya.com](https://www.somaditya.com)**
+- 👨‍💻 Checkout my project portfolio at **[somaditya.com](https://www.somaditya.com)**
 
 - 📫 Contact me on **[LinkedIn](https://www.linkedin.com/in/somadityabasak/)**
 
