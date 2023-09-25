@@ -1,10 +1,14 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<h1 align="center">Somaditya Basak</h1>
-<h3 align="center">Back End Developer 👨‍💻</h3>
+<h1 align="center">👋 Hello, my name is Somaditya Basak</h1>
+<h3 align="center">I'm a Full Stack Developer 👨‍💻</h3>
 
-- 🌱 Lifelong student of **Algorithms and Data Structures**
+- 🛠 My primary skills: **☕️Java 🌱Spring ⚛️React 🛢SQL 🐧Linux**
 
-- 👨‍💻 Checkout my project portfolio at **[somaditya.com](https://www.somaditya.com)**
+- 🔭 My lifelong pursuit: **Algorithms and Data Structures**
+
+- 🧭 Latest adventure: **🦀Rust**
+
+- 🖼 Checkout my project portfolio at **[somaditya.com](https://www.somaditya.com)**
 
 - 📫 Contact me on **[LinkedIn](https://www.linkedin.com/in/somadityabasak/)**
 
