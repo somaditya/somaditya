@@ -2,9 +2,9 @@
 <h1 align="center">👋 Hello, my name is Somaditya Basak</h1>
 <h3 align="center">I'm a Full Stack Developer 👨‍💻</h3>
 
-- 🛠 My primary skills: **⚛️React ☕️Java 🌱Spring 🛢SQL 🐧Linux**
+- 🛠 My primary skills are **⚛️React ☕️Java 🌱Spring 🛢SQL 🐧Linux**
 
-- 🔭 My lifelong pursuit: **Algorithms and Data Structures**
+- 🔭 My lifelong pursuit is getting better at **Algorithms and Data Structures**
 
 - 🧭 Latest adventure: **🦀Rust**
 
