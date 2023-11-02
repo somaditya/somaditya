@@ -1,8 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h1 align="center">👋 Hello, my name is Somaditya Basak</h1>
-<h3 align="center">I'm a Full Stack Developer 👨‍💻</h3>
+<h3 align="center">I'm a Back End Developer 👨‍💻</h3>
 
-- 🛠 My primary skills are **⚛️React ☕️Java 🌱Spring 🛢SQL 🐧Linux**
+- 🛠 My primary skills are **☕️Java 🌱Spring 🛢SQL 🐧Linux**
 
 - 🔭 My lifelong pursuit is getting better at **Algorithms and Data Structures**
 
