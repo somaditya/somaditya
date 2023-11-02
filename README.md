@@ -6,7 +6,7 @@
 
 - 🔭 My lifelong pursuit is getting better at **Algorithms and Data Structures**
 
-- 🧭 Latest adventure: **🦀Rust**
+- 🧭 Latest adventure: **🐹Go**
 
 - 🖼 Checkout my project portfolio at **[somaditya.com](https://www.somaditya.com)**
 
