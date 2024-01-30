@@ -2,20 +2,12 @@
 <h1 align="center">👋 Hello, my name is Somaditya Basak</h1>
 <h3 align="center">I'm a Back End Developer 👨‍💻</h3>
 
-- 🛠 My primary skills are **☕️Java 🌱Spring 🛢SQL 🐧Linux**
+- 🛠️ My primary skills are **☕️Java 🛢SQL 🐧Linux**
 
-- 🔭 My lifelong pursuit is getting better at **Algorithms and Data Structures**
+- 🔭 Trying to suck less at **Algorithms and Data Structures**
 
-- 🧭 Latest adventure: **🐹Go**
+- 🎓 GeorgiaTech MSCS aspirant
 
-- 🖼 Checkout my project portfolio at **[somaditya.com](https://www.somaditya.com)**
+- 🧭 Checkout my projects at **[somaditya.com](https://www.somaditya.com)**
 
 - 📫 Contact me on **[LinkedIn](https://www.linkedin.com/in/somadityabasak/)**
-
-<!--
-#Competitive Programming
-LeetCode - Guardian (Rating: 2000+)
-CodeForces - Red (GrandMaster)
-HackerRank - 6 Star
-hackerEarth - Elite (Rating: 2000+), India Rank: 18
--->
