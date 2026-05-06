@@ -2,11 +2,11 @@
 <h1 align="center">👋 Hello, my name is Somaditya Basak</h1>
 <h3 align="center">I'm a Back End Developer 👨‍💻</h3>
 
-- 🛠️ My primary skills are **☕️Java 🛢SQL 🐧Linux**
+- 🛠️ My primary skills are **🤖Agentic AI ☕️Java 🌱Spring 🛢️SQL 🐧Linux**
 
-- 🔭 Trying to suck less at **Algorithms and Data Structures**
+- 🖥️ I train Agentic AI at **[DataAnnotation](https://dataannotation.tech/)**
 
-- 🎓 GeorgiaTech MSCS aspirant
+- 🎓 I'm also an Online MSCS student at Georgia Tech
 
 - 🧭 Checkout my projects at **[somaditya.com](https://www.somaditya.com)**
 
