@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<h1 align="center">👋 Hello, my name is Somaditya Basak</h1>
+<h1 align="center">👋🏼 Hello, my name is Somaditya Basak</h1>
 <h3 align="center">I'm a Back End Developer 👨‍💻</h3>
 
 - 🛠️ My primary skills are **🤖 Agentic AI   ☕️ Java   🌱 Spring   🛢️ SQL   🐧 Linux**
