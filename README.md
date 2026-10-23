@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hello, my name is Somaditya Basak</h1>
 <h3 align="center">I'm a Back End Developer 👨‍💻</h3>
 
-- 🛠️ My primary skills are **🤖Agentic AI ☕️Java 🌱Spring 🛢️SQL 🐧Linux**
+- 🛠️ My primary skills are **🤖 Agentic AI   ☕️ Java   🌱 Spring   🛢️ SQL   🐧 Linux**
 
 - 🖥️ I train Agentic AI at **[DataAnnotation](https://dataannotation.tech/)**
 
