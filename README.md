@@ -8,6 +8,6 @@
 
 - 🎓 I'm also an Online MSCS student at Georgia Tech
 
-- 🧭 Checkout my projects at **[somaditya.com](https://www.somaditya.com)**
+- 🧭 Checkout my projects at **[somaditya.com](https://www.somaditya.com)** [![Portfolio](https://img.shields.io/badge/portfolio-somaditya.devtag.io-4ade80)](https://somaditya.devtag.io/)
 
 - 📫 Contact me on **[LinkedIn](https://www.linkedin.com/in/somadityabasak/)**
